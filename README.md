@@ -6,27 +6,41 @@ This version will include newer versions of current tools available, but the aim
 -----------[Features]-----------
 
 Model Editing
+
 Texture Editing
+
 Animation Editing
+
 SLXS Editing
+
 Effect Editing
+
 Core ISO Editing
+
 Tutorials and Instructions
+
 
 
 -----------[Extras]------------
 
 Language Options for Tool
+
 Music/SFX Options for Tool
+
 Graphical Themes for Tool
+
 Mod Generators (ideas for mods!)
+
 
 
 -----------[Process]-----------
 
 This tool will be coded in Python 3.7 or higher using libraries such as Struct, Tkinter and similar.
+
 This tool will be GUI only, this will make using the tools much better for people to mod and create mods without complication and struggle with the text aspect of the older tool.
+
 This tool set will be standalone but can have "DLC" so to speak, meaning that anyone who wants to release their tools with this tool pack using it's files are welcome to post, but the core toolset will be developed by those within the team.
+
 
 
 --------[Documentation]-------
